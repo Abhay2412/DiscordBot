@@ -21,3 +21,6 @@ or eventually
 ```
 python3.8 bot.py
 ```
+## Requirements
+- Python 3.6 and up - https://www.python.org/downloads/
+- git - https://git-scm.com/download/
