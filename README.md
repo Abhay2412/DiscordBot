@@ -1,5 +1,5 @@
 # DiscordBot
-Creating a Discord Bot using Python 
+Creating a Discord Bot using **Python** and the module **Discord.py**
 ## How to start
 
 To start the bot you simply need to launch, either your terminal (Linux, Mac & Windows), or your Command Prompt (
